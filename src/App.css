@@ -1,38 +1,29 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 html,
 body {
-  font-size: 18px;
-  background-color: #d0c7c7;
+    font-size: 18px;
+    background-color: #d0c7c7;
+}
+
+.contenedor-principal {
+    
+    min-height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
 }
 
 h1 {
-  max-width: 940px;
-  font-size: 2.5em;
-  font-family: Lato,sans-serif;
-  font-weight: 700;
-  line-height: 1.1;
-  margin: 40px 0;
-}
-
-.App{
-    min-height: 100vh;
-    display: flex; /* como se va ubicar los elementos */
-    flex-wrap: wrap; /* si un elemento es muy grande los demas elemento se va a abajo */
-    align-items: center; /* se va a alineas en centro  vertical  */
-    justify-content: center; /* se va a centar horizontal */
-    text-align: center;
-}
-
-.contenedor-principal{
-    min-height: 600px;
-    display: flex;
-    flex-wrap: wrap; 
-    align-items: center; 
-    justify-content: center; 
-
+    max-width: 940px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
 }

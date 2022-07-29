@@ -3,7 +3,7 @@ import { Testimonio } from "./components/Testimonio";
 
 function App() {
   return (
-    <div className="App">
+    <>
       <div className="contenedor-principal">
         <h1>Esto es un titulo principal</h1>
 
@@ -34,7 +34,7 @@ function App() {
           testimonio="Vendedor"
         />
       </div>
-    </div>
+    </>
   );
 }
 

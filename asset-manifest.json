@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactproject-01/static/css/main.b21d6062.css",
-    "main.js": "/reactproject-01/static/js/main.d3c27b86.js",
-    "static/media/glass.png": "/reactproject-01/static/media/glass.b4f0095f85255ff15565.png",
-    "static/media/windows.png": "/reactproject-01/static/media/windows.ab819c547c917af10a1b.png",
-    "static/media/build.png": "/reactproject-01/static/media/build.8d87b51635c1341af2bf.png",
-    "index.html": "/reactproject-01/index.html",
-    "main.b21d6062.css.map": "/reactproject-01/static/css/main.b21d6062.css.map",
-    "main.d3c27b86.js.map": "/reactproject-01/static/js/main.d3c27b86.js.map"
+    "main.css": "/react-project-01/static/css/main.b21d6062.css",
+    "main.js": "/react-project-01/static/js/main.57056b0c.js",
+    "static/media/glass.png": "/react-project-01/static/media/glass.b4f0095f85255ff15565.png",
+    "static/media/windows.png": "/react-project-01/static/media/windows.ab819c547c917af10a1b.png",
+    "static/media/build.png": "/react-project-01/static/media/build.8d87b51635c1341af2bf.png",
+    "index.html": "/react-project-01/index.html",
+    "main.b21d6062.css.map": "/react-project-01/static/css/main.b21d6062.css.map",
+    "main.57056b0c.js.map": "/react-project-01/static/js/main.57056b0c.js.map"
   },
   "entrypoints": [
     "static/css/main.b21d6062.css",
-    "static/js/main.d3c27b86.js"
+    "static/js/main.57056b0c.js"
   ]
 }
